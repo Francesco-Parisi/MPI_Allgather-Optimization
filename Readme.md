@@ -1,4 +1,4 @@
-# Allgather
+# MPI_Allgather Optimization
 
 In this project we show algorithms used, in particular we will see from the theoretical point of view the structure of the same and analyze the methodology with which each of these algorithms performs the operation of Allgather.
 
