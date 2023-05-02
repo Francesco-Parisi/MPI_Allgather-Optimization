@@ -67,3 +67,8 @@ mpicc <ex*.c> -lm -o <ex*>
 ```
 mpirun -n nprocs --allow-run-as-root --oversubscribe ex* <data_size> <num_iterations> <delay_between_iterations>
 ```
+## Project Structure
+Below are the folders in the repository:
+- `code`: contains the different Allgather algorithms;
+- `img`: contains the images for the readme;
+- `papers`: contains the required documentation for the development of the algorithms;
